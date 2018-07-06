@@ -7,7 +7,7 @@ from pytrec_eval.utils import *
 def df_evaluate(run, qrels, measures, details=False):
     """
     Evaluates a the given run with the given qrels by computing the
-    measures given as input.
+    measures given as input_data.
     The output is a DataFrame containing the result of the evaluation.
     :param run:
     :param qrels:
@@ -36,7 +36,7 @@ def df_evaluate(run, qrels, measures, details=False):
 
 def df_evaluateAll(runs, qrels, measures):
     """
-    Evaluates all the runs given as input with the given qrels by evaluating all the provided measures.
+    Evaluates all the runs given as input_data with the given qrels by evaluating all the provided measures.
     The output is a DataFrame containing the result of the evaluation.
 
     :param runs: a list of runs

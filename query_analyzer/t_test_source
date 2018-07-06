@@ -1,0 +1,35 @@
+0.235	0.235	0.235	0.600	0.400	0.200	0.317	1.000	17.000	17.000	�	john parker ,	trecqalist_111.4_1000.jsonl.gz	PERSON	10	Officals Amway Company
+0.667	0.667	0.667	0.400	0.200	0.100	0.565	1.000	3.000	3.000	�	predator ,	trecqalist_114.4_1000.jsonl.gz	O	10	MoviesTV Shows Jesse Ventura appeared
+0.167	0.167	0.167	0.400	0.200	0.100	0.393	0.611	11.000	18.000	�	arafat ,palestinian leader yasser arafat ,yasser arafat ,clinton ,president clinton ,barak ,ehud barak ,	trecqalist_116.6_1000.jsonl.gz	PERSON	10	world leader met Camp David
+0.333	0.333	0.333	0.000	0.100	0.050	0.088	0.667	2.000	3.000	�	eugen bentele , 91 ,	trecqalist_131.7_1000.jsonl.gz	PERSON	10	Individual witnessed Hindenburg Disaster
+0.462	0.462	0.462	0.400	0.300	0.150	0.321	0.769	10.000	13.000	�	drosophila fruit fly ,fruit fly ,	trecqalist_134.2_1000.jsonl.gz	O	10	specie whose genome sequenced
+1.000	1.000	1.000	0.400	0.200	0.100	0.500	1.000	2.000	2.000	�	human genome project ,nhgri ,	trecqalist_134.3_1000.jsonl.gz	ORGANIZATION	10	organization sequenced Human genome
+0.083	0.083	0.250	0.000	0.100	0.150	0.138	0.833	10.000	12.000	�	al-iraki ,	trecqalist_139.3_1000.jsonl.gz	PERSON	10	served Secretary General OIC
+0.500	0.500	0.750	0.200	0.200	0.150	0.278	1.000	4.000	4.000	�	ty votaw ,	trecqalist_142.6_1000.jsonl.gz	PERSON	10	past present LPGA commissioner
+0.000	0.250	0.750	0.000	0.100	0.150	0.099	1.000	4.000	4.000	�	japanese classic ,	trecqalist_142.7_1000.jsonl.gz	MISC	10	tournament LPGA player participated
+0.000	0.000	0.000	0.000	0.000	0.000	0.031	1.000	1.000	1.000	�	karlyn bowman ,	trecqalist_143.6_1000.jsonl.gz	PERSON	10	scholar Institute
+0.000	0.250	0.625	0.000	0.200	0.250	0.174	0.875	7.000	8.000	�	james lilley ,	trecqalist_143.7_1000.jsonl.gz	PERSON	10	fellow Institute
+0.000	0.000	0.000	0.000	0.000	0.000	0.020	1.000	1.000	1.000	�	jim gavin ,	trecqalist_144.7_1000.jsonl.gz	PERSON	10	commanded division
+0.250	0.250	0.250	0.200	0.100	0.050	0.275	1.000	4.000	4.000	�	vertigo ,	trecqalist_153.4_1000.jsonl.gz	O	10	movie nomination best director
+0.600	0.600	0.667	0.600	0.300	0.200	0.502	0.867	13.000	15.000	�	rembrandt ,michelangelo ,	trecqalist_163.5_1000.jsonl.gz	PERSON	10	artist represented collection
+1.000	1.000	1.000	0.800	0.400	0.200	1.000	1.000	11.000	11.000	�	fiona ,	trecqalist_170.5_1000.jsonl.gz	PERSON	10	artist John Prine done duet
+0.350	0.500	0.700	0.600	0.500	0.500	0.568	1.000	20.000	20.000	�	van gogh ,renoir ,monet ,	trecqalist_171.6_1000.jsonl.gz	PERSON	10	famous artist whose work purchased Stephen Wynn displayed gallery
+0.059	0.118	0.353	0.200	0.200	0.250	0.161	0.941	16.000	17.000	�	dick newpher ,	trecqalist_174.6_1000.jsonl.gz	PERSON	10	graduate DePauw university
+0.000	0.286	0.714	0.000	0.100	0.150	0.142	1.000	14.000	14.000	�	tortilla flat ,samson and delilah ,	trecqalist_179.5_1000.jsonl.gz	O	10	movie Hedy Lamarr appeared
+0.000	0.000	0.200	0.000	0.000	0.050	0.075	1.000	5.000	5.000	�	fritz mandl ,	trecqalist_179.7_1000.jsonl.gz	PERSON	10	Hedy Lamarrs husband
+0.429	0.643	0.643	0.800	0.800	0.400	0.615	1.000	14.000	14.000	�	roy keane ,	trecqalist_181.6_1000.jsonl.gz	PERSON	10	leading player Manchester United 1990s
+0.000	0.000	0.000	0.000	0.000	0.000	0.012	1.000	4.000	4.000	�	president robert mugabe ,mugabe ,	trecqalist_183.4_1000.jsonl.gz	PERSON	10	national leader spokesperson sent congratulatory message following Thabo Mbekis election president South Africa
+0.800	1.000	1.000	0.600	0.400	0.200	0.715	1.000	5.000	5.000	�	rick swenson ,	trecqalist_185.5_1000.jsonl.gz	PERSON	10	people Iditarod
+0.250	0.250	0.250	0.200	0.100	0.050	0.136	1.000	4.000	4.000	�	red pyramid ,	trecqalist_186.7_1000.jsonl.gz	O	10	additional pyramid Egypt
+0.167	0.167	0.167	0.200	0.100	0.050	0.085	1.000	6.000	6.000	�	the apurimac river ,	trecqalist_187.4_1000.jsonl.gz	LOCATION	10	thing named honor Enrico Fermi
+0.000	0.000	0.000	0.000	0.000	0.000	0.030	1.000	6.000	6.000	�	mouse ,	trecqalist_197.4_1000.jsonl.gz	O	10	mammal cloned adult cell
+0.000	0.000	0.000	0.000	0.000	0.000	0.034	1.000	1.000	1.000	�	mayon ,	trecqalist_205.6_1000.jsonl.gz	ORGANIZATION	10	volcano Philippines
+0.000	0.000	0.250	0.000	0.000	0.050	0.060	1.000	4.000	4.000	�	michael moorer ,	trecqalist_77.6_1000.jsonl.gz	PERSON	10	opponent Foreman defeated
+0.182	0.273	0.455	0.400	0.300	0.250	0.246	1.000	11.000	11.000	�	canadians ,canada ,	trecqalist_80.6_1000.jsonl.gz	MISC	10	Identify nationality passenger Flight 990
+0.125	0.125	0.125	0.000	0.100	0.050	0.059	1.000	8.000	8.000	�	howdy doody ,	trecqalist_82.3_1000.jsonl.gz	PERSON	10	various puppet used Howdy Doody Show
+0.000	0.000	0.000	0.000	0.000	0.000	0.019	0.917	11.000	12.000	�	willamette ,	trecqalist_84.7_1000.jsonl.gz	O	10	namesidentifications given meteorite
+0.000	0.000	0.000	0.000	0.000	0.000	0.062	0.833	5.000	6.000	�	`` snow falling on cedars , '' ,	trecqalist_91.3_1000.jsonl.gz	O	10	title Cliffs Notes Condensed Classics
+0.571	0.571	0.714	0.400	0.300	0.200	0.315	1.000	7.000	7.000	�	raymond floyd ,floyd ,hale irwin ,jim colbert ,irwin ,	trecqalist_92.3_1000.jsonl.gz	PERSON	10	player Arnold Palmer competed The Skins Game
+1.000	1.000	1.000	0.400	0.200	0.100	1.000	1.000	2.000	2.000	�	the kapalua village course ,	trecqalist_92.4_1000.jsonl.gz	LOCATION	10	Which golf course designed Arnold Palmer
+0.214	0.571	0.571	0.600	0.500	0.250	0.394	0.857	12.000	14.000	�	mr. jones ,	trecqalist_97.5_1000.jsonl.gz	PERSON	10	Crows Record Titles
+0.000	0.000	0.750	0.000	0.000	0.050	0.040	1.000	4.000	4.000	�	bind for glory ,this land be you land ,	trecqalist_99.1_1000.jsonl.gz	O	10	Woody Guthries song

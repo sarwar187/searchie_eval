@@ -1,5 +1,5 @@
 import sys
-from scipy.stats import stats
+from scipy.stats import *
 import pytrec_eval
 
 __author__ = 'alberto'
@@ -24,14 +24,14 @@ def evaluateAll(runs, qrels, measures=pytrec_eval.STD_METRICS, streamOut=sys.std
     if callable(measures): measures = [measures]
     mList = [measure.__name__ for measure in measures]
 
-    print('run name', end='\t', file=streamOut)
-    for m in mList: print(m, end='\t', file=streamOut)
-    print('')
+    #print('run name', end='\t', file=streamOut)
+    #for m in mList: print(m, end='\t', file=streamOut)
+    #print('')
 
     for run in runs:
         results = evaluate(run, qrels, measures)
-        print(run.name, end='\t', file=streamOut)
-        for m in results: print(m, sep='', end='\t', file=streamOut)
+        #print(run.name, end='\t', file=streamOut)
+        #for m in results: print(m, sep='', end='\t', file=streamOut)
         print('')
 
 
@@ -54,9 +54,9 @@ def showRelevanceScores(trecRun, qrels, topicId, top_n=10, file=sys.stdout):
     """
     for rank, (docId, _, _) in enumerate(trecRun.getEntriesBy(topicId), start=1):
         if rank > top_n: break
-        print(topicId, rank, docId,
-              qrels.getRelevanceScore(topicId, docId) if docId in qrels.allJudgements[topicId] else '?',
-              sep='\t', file=file)
+        #print(topicId, rank, docId,
+        #      qrels.getRelevanceScore(topicId, docId) if docId in qrels.allJudgements[topicId] else '?',
+        #      sep='\t', file=file)
 
 
 def ttest(victim_run, allTheOther_runs, qrels, metric):
@@ -98,10 +98,10 @@ def confusion_matrix_toString(cf):
 
 def keep_qrels_topics(run, qrels):
     """
-    Returns a new run composed by only the entries of the input run belonging
-    to topics contained in the input qrels.
+    Returns a new run composed by only the entries of the input_data run belonging
+    to topics contained in the input_data qrels.
 
-    Important: Entries of the new run are shallow copies of entries of the input run.
+    Important: Entries of the new run are shallow copies of entries of the input_data run.
     :param run:
     :type run: TrecRun
     :param qrels:
